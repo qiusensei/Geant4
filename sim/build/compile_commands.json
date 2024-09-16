@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/home/qwe/Documents/sim/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/qwe/Documents/sim/include -isystem /home/qwe/Geant4/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/sim.dir/sim.cc.o -c /home/qwe/Documents/sim/sim.cc",
+  "file": "/home/qwe/Documents/sim/sim.cc",
+  "output": "CMakeFiles/sim.dir/sim.cc.o"
+},
+{
+  "directory": "/home/qwe/Documents/sim/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/qwe/Documents/sim/include -isystem /home/qwe/Geant4/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/sim.dir/src/action.cc.o -c /home/qwe/Documents/sim/src/action.cc",
+  "file": "/home/qwe/Documents/sim/src/action.cc",
+  "output": "CMakeFiles/sim.dir/src/action.cc.o"
+},
+{
+  "directory": "/home/qwe/Documents/sim/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/qwe/Documents/sim/include -isystem /home/qwe/Geant4/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/sim.dir/src/construction.cc.o -c /home/qwe/Documents/sim/src/construction.cc",
+  "file": "/home/qwe/Documents/sim/src/construction.cc",
+  "output": "CMakeFiles/sim.dir/src/construction.cc.o"
+},
+{
+  "directory": "/home/qwe/Documents/sim/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/qwe/Documents/sim/include -isystem /home/qwe/Geant4/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/sim.dir/src/detector.cc.o -c /home/qwe/Documents/sim/src/detector.cc",
+  "file": "/home/qwe/Documents/sim/src/detector.cc",
+  "output": "CMakeFiles/sim.dir/src/detector.cc.o"
+},
+{
+  "directory": "/home/qwe/Documents/sim/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/qwe/Documents/sim/include -isystem /home/qwe/Geant4/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/sim.dir/src/generator.cc.o -c /home/qwe/Documents/sim/src/generator.cc",
+  "file": "/home/qwe/Documents/sim/src/generator.cc",
+  "output": "CMakeFiles/sim.dir/src/generator.cc.o"
+},
+{
+  "directory": "/home/qwe/Documents/sim/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/qwe/Documents/sim/include -isystem /home/qwe/Geant4/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/sim.dir/src/physics.cc.o -c /home/qwe/Documents/sim/src/physics.cc",
+  "file": "/home/qwe/Documents/sim/src/physics.cc",
+  "output": "CMakeFiles/sim.dir/src/physics.cc.o"
+},
+{
+  "directory": "/home/qwe/Documents/sim/build",
+  "command": "/usr/bin/c++ -DG4LIB_BUILD_DLL -DG4UI_USE_QT -DG4VIS_USE_OPENGLQT -DG4VIS_USE_OPENGLX -DG4VIS_USE_TOOLSSG_QT_GLES -DG4VIS_USE_TOOLSSG_QT_ZB -DG4VIS_USE_TOOLSSG_X11_GLES -DPTL_BUILD_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_OPENGL_LIB -DQT_WIDGETS_LIB -I/home/qwe/Documents/sim/include -isystem /home/qwe/Geant4/include/Geant4 -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -isystem /usr/include/x86_64-linux-gnu/qt5/QtOpenGL -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -g -fPIC -o CMakeFiles/sim.dir/src/run.cc.o -c /home/qwe/Documents/sim/src/run.cc",
+  "file": "/home/qwe/Documents/sim/src/run.cc",
+  "output": "CMakeFiles/sim.dir/src/run.cc.o"
+}
+]

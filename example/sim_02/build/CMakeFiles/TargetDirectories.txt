@@ -1,0 +1,4 @@
+/home/qwe/Documents/example/sim_02/build/CMakeFiles/sim.dir
+/home/qwe/Documents/example/sim_02/build/CMakeFiles/Simulation.dir
+/home/qwe/Documents/example/sim_02/build/CMakeFiles/edit_cache.dir
+/home/qwe/Documents/example/sim_02/build/CMakeFiles/rebuild_cache.dir
